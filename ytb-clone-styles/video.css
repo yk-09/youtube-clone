@@ -100,11 +100,11 @@
     }
 }
 
-@media (min-width: 700px) and (max-width: 1000px) and (max-height: 2000px){
+/* @media (min-width: 700px) and (max-width: 1000px) and (max-height: 2000px){
     .video-grid {
         grid-template-columns: 1fr 1fr;
     }
-}
+} */
 
 @media (min-width: 1000px) and (min-height: 600px) {
     .video-grid {
